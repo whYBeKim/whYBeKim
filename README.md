@@ -1,6 +1,5 @@
 ### Who I am?
-👋 Hello My name is YoungBeom, I am a graduate student working at [![Lab Badge](https://img.shields.io/badge/-COALA-blue?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/fastcrypto/)](https://sites.google.com/kookmin.ac.kr/fastcrypto/) 
- in Kookmin University
+👋 Hello My name is YoungBeom, I am a graduate student working at "Crypto Optimization & Application LAb (COALA)"in Kookmin University
 
 My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. I am very interested in "Efficient implementation of Cryptographic Algorithm". I am especially interested in Cryptographic Module Validation Program
 
