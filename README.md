@@ -4,6 +4,11 @@
 
 </div>
 
+👋 Hello My name is Harim, I am a developer working at Intel
+
+My major is mathematics📚, and I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision
+
+
 ### Machine Learning Engineer
 - Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
 - I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
