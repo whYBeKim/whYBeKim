@@ -1,5 +1,5 @@
 ### Who I am?
-👋 Hello My name is YoungBeom, I am a graduate student working at "Crypto Optimization & Application LAb (COALA)"in Kookmin University
+👋 Hello My name is YoungBeom Kim, I am a graduate student working at "Crypto Optimization & Application LAb (COALA)"in Kookmin University
 
 My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. In addition, I have expert knowledge in extraction and cupping of "Coffee ☕️".
 
