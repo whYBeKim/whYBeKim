@@ -4,9 +4,9 @@
 
 </div>
 
-👋 Hello My name is Harim, I am a developer working at Intel
+👋 Hello My name is YoungBeom, I am a developer working in Kookmin University
 
-My major is mathematics📚, and I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision
+My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. I am very interested in "Efficient implementation of Cryptographic Algorithm". I am especially interested in Cryptographic Module Validation Program
 
 
 ### Machine Learning Engineer
