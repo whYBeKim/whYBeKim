@@ -1,10 +1,8 @@
-<div align=center>
+<div align=left>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungbeom94&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbeom94&theme=prussian&show_icons=true)
 
 ### Machine Learning Engineer
 - Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
