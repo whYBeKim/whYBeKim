@@ -1,7 +1,7 @@
 ### Who I am?
 👋 Hello My name is YoungBeom, I am a graduate student working at "Crypto Optimization & Application LAb (COALA)"in Kookmin University
 
-My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. I am very interested in "Efficient implementation of Cryptographic Algorithm". I am especially interested in Cryptographic Module Validation Program
+My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. 
 
 ### Interest
 - Efficient implementation of Cryptographic Algorithm in a constrained device
