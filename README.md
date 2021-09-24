@@ -16,7 +16,7 @@ You can check my projects and published papers in the "Notion" below.
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://c11.kr/youngbeom)](https://c11.kr/youngbeom)
 [![Lab Badge](https://img.shields.io/badge/-COALA-green?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/fastcrypto/)](https://sites.google.com/kookmin.ac.kr/fastcrypto/)
   
-[![Google Scholar in Badge](https://img.shields.io/badge/-Google-Scholar-blue?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=jGR5arMAAAAJ&hl=ko)]
+[![Google Scholar in Badge](https://img.shields.io/badge/-Google-blue?style=flat-square&logo=Google&logoColor=white&link=https://scholar.google.co.kr/citations?user=jGR5arMAAAAJ&hl=ko)]
   
 [![Linked in Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EA%B9%80-6a7b8b187/)](https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EA%B9%80-6a7b8b187/) 
   
