@@ -14,11 +14,11 @@ You can check my projects and published papers in the "Notion" below.
 <div align=center>
 
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://c11.kr/youngbeom)](https://c11.kr/youngbeom)
-[![Lab Badge](https://img.shields.io/badge/-COALA-blue?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/fastcrypto/)](https://sites.google.com/kookmin.ac.kr/fastcrypto/) 
+[![Lab Badge](https://img.shields.io/badge/-COALA-green?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/fastcrypto/)](https://sites.google.com/kookmin.ac.kr/fastcrypto/)
+[![Linked in Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=BandLab&logoColor=white&link=https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EA%B9%80-6a7b8b187/)](https://www.linkedin.com/in/%EC%98%81%EB%B2%94-%EA%B9%80-6a7b8b187/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/0___bm/)](https://www.instagram.com/0___bm/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darania@kookmin.ac.kr)](mailto:darania@kookmin.ac.kr)
 </div>
-	
   
  <div align=center>
 
