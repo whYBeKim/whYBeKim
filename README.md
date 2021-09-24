@@ -4,20 +4,16 @@
 
 </div>
 
-👋 Hello My name is YoungBeom, I am a developer working in Kookmin University
+### Who I am?
+👋 Hello My name is YoungBeom, I am a graduate student working at Crypto Optimization & Application LAb("COALA") in Kookmin University
 
 My major is Cryptographic-mathematics📚, and I have been studying computer science💻 since 2019. I have project experience using "C"(My most confident language), "Assemnbly" & "Python", and "C++" languages. I am very interested in "Efficient implementation of Cryptographic Algorithm". I am especially interested in Cryptographic Module Validation Program
 
-
-### Machine Learning Engineer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- Efficient implementation of Cryptographic Algorithm in a constrained device
+- Cryptographic Module Validation Program (CMVP, Korea CMVP)
+- PostQuantum-Cryptography (PQC)
+- Metamorphic Testing for Cryptographic Algorithm
 
 <div align=center>
 
