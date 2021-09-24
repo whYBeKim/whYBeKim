@@ -5,7 +5,7 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbeom94&theme=city_lights&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbeom94&theme=city_lights&show_icons=true&theme=radica)
 
 ### Machine Learning Engineer
 - Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
