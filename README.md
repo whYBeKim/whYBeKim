@@ -9,6 +9,8 @@ My major is Cryptographic-mathematics📚, and I have been studying computer sci
 - PostQuantum-Cryptography (PQC)
 - Metamorphic Testing for Cryptographic Algorithm
 
+You can check my projects and published papers in the "Notion" below.
+
 <div align=center>
 
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://c11.kr/youngbeom)](https://c11.kr/youngbeom)
