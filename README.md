@@ -18,7 +18,7 @@ You can check my projects and published papers in the "Notion" below.
 <div align=center>
 
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://c11.kr/youngbeom)](https://c11.kr/youngbeom)
-[![Lab Badge](https://img.shields.io/badge/-COALA-yellow?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/fastcrypto/)](https://sites.google.com/kookmin.ac.kr/fastcrypto/)
+[![Lab Badge](https://img.shields.io/badge/-CSELAB-blue?style=flat-square&logo=BandLab&logoColor=white&link=https://sites.google.com/kookmin.ac.kr/cselab/)](https://sites.google.com/kookmin.ac.kr/cselab/)
 [![GoogleScholar in Badge](https://img.shields.io/badge/-GoogleScholar-lightgrey?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=jGR5arMAAAAJ&hl=ko)](https://scholar.google.co.kr/citations?user=jGR5arMAAAAJ&hl=ko)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darania@kookmin.ac.kr)](mailto:darania@kookmin.ac.kr)
 <!-- [![StackOverflow in Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/17014954/youngbeom-kim)](https://stackoverflow.com/users/17014954/youngbeom-kim) 
